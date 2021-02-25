@@ -32,11 +32,21 @@ Android USB 网络共享暂不可用
 
 Android Type-C 传文件存在问题
 
-****其他注意事项****
+****其他****
 
 开机后有极小概率出现小于 0.1s 的雪花屏
 
-如果遇见 开机后外置扬声器没有声音的情况，请首先检查注入之 驱动 ID。如果都不行，请将 /EFI/CLOVER/kexts/Others/CodecCommander.kext 备份到别处
+如果遇见 开机后外置扬声器没有声音的情况，请首先检查注入之 驱动 ID。如果都不行，请备份 CLOVER/kexts/Others/CodecCommander.kext 备份到别处，并将对应文件从 EFI 分区删除
+
+键盘暂时无法调整亮度
+
+tested with 10.15.5 & 10.15.7 ，可在线升级到 10.15.7，相关驱动已更新
+
+*TODO
+
+解决某些 DRM 版权内容暂时无法播到问题
+
+转移到 opencore 并且支持 Big Sur
 
 键盘暂时无法调整亮度
 
