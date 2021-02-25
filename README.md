@@ -35,3 +35,12 @@ Nvidia 独立显卡已被屏蔽
 如果遇见 开机后外置扬声器没有生意的情况，请首先检查注入之 驱动 ID。如果都不行，请将 /EFI/CLOVER/kexts/Others/CodecCommander.kext 备份到别处
 
 键盘暂时无法调整亮度
+
+****感谢****
+
+https://github.com/mechtifs/hackintosh-hp-15-cx0/ 
+
+https://github.com/acidanthera/AppleALC
+
+https://github.com/acidanthera/virtualsmc/
+
