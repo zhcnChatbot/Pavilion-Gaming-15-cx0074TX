@@ -6,7 +6,7 @@
 
 ****已确认工作****
 
-ntel UHD Graphics 630 正常驱动
+Intel UHD Graphics 630 正常驱动
 
 通过设置或者键盘上快捷键正常调节亮度，记忆亮度信息
 
